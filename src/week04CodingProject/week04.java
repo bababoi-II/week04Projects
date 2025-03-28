@@ -1,7 +1,7 @@
 package week04CodingProject;
 
 import java.util.Arrays;
-
+ // this is a test to see if changes were made on github.
 
 public class week04 {
 
